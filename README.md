@@ -24,7 +24,7 @@ The dataset contains records of EV charging sessions, with key features such as:
 - Model training to predict charging station demand using **classification & regression techniques**  
 
 ## 🔧 Technologies Used  
-- Python (Pandas, NumPy, Scikit-learn)  
+- Python (Pandas, NumPy, Scikit-learn, RandomForestClassifier, MatPlotLib)  
 - Data Visualization (Matplotlib, Seaborn)  
 - Machine Learning (Regression, Classification)  
 
